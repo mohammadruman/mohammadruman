@@ -1,10 +1,8 @@
-### HELLO I'am MOHAMMAD RUMAN 👋
+### Hello I'am Mohammad Ruman 👋
 - 🔭 I’m currently working on Building My Skills
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Twitter
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about data structures & Algorithim
 - 📫 How to reach me: Twitter @rumanharis
-- 😄 Pronouns: 
+- 💬 Ask me about data structures & Algorithim
 - ⚡ Fun fact: I spend 12 hours on my laptop everyday
 -
