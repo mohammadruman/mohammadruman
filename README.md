@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **I might not have thumbs but I still love to code**
 
+
+ ![1](https://user-images.githubusercontent.com/88760648/158863949-3820493b-9fec-468d-bbe9-322da9224380.jpeg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rumanharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rumanharis" height="30" width="40" /></a>
