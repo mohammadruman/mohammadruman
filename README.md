@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **I might not have thumbs but I still love to code**
 
+<p align="center">
+<a href="https://www.github.com/mohammadruman" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
  ![1](https://user-images.githubusercontent.com/88760648/158863949-3820493b-9fec-468d-bbe9-322da9224380.jpeg)
 
