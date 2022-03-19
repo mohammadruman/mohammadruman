@@ -12,7 +12,8 @@ I am Mohammad Ruman, currently pursuing my BTech majoring in computer science fr
 - 📫 How to reach me **mohammaderuman@gmail.com**
 
 - ⚡ Fun fact **I might not have thumbs but I still love to code**
-
+ 
+  ![](https://komarev.com/ghpvc/?username=mohammadruman&color=blueviolet&style=plastic&align=center)
 <p align="center">
 <a href="https://www.github.com/mohammadruman" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
@@ -41,7 +42,7 @@ src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
-## 📈 Stats
+  ## 📊 Github Stats
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammadruman&show_icons=true&theme=tokyonight" />
