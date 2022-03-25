@@ -13,11 +13,15 @@ I am Mohammad Ruman, currently pursuing my BTech majoring in computer science fr
 
 - ⚡ Fun fact **I might not have thumbs but I still love to code**
 
-![gif](https://user-images.githubusercontent.com/88760648/160058600-4c115037-2160-4240-bfa4-c2f5054d1cb3.gif)
 ![](https://komarev.com/ghpvc/?username=mohammadruman&color=blueviolet&style=plastic&align=center)
+
 <p align="center">
 <a href="https://www.github.com/mohammadruman" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88760648/160058600-4c115037-2160-4240-bfa4-c2f5054d1cb3.gif" />
+</p>
+   
 
  
 <img src="https://activity-graph.herokuapp.com/graph?username=mohammadruman&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
