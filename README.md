@@ -47,10 +47,14 @@ src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
+## Watch my contribution graph being eaten by a Snake! 🐍
+![snake gif](https://github.com/mohammadruman/mohammadruman/blob/output/github-contribution-grid-snake.gif)
+
   ## 📊 Github Stats
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammadruman&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadruman&theme=tokyonight" />
 </p>
+
 
