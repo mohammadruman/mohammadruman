@@ -22,9 +22,9 @@ src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for
   <img src="https://user-images.githubusercontent.com/88760648/160058600-4c115037-2160-4240-bfa4-c2f5054d1cb3.gif" />
 </p>
    
+   ## Watch my contribution graph being eaten by a Snake! 🐍
+![snake gif](https://github.com/mohammadruman/mohammadruman/blob/output/github-contribution-grid-snake.gif)
 
- 
-<img src="https://activity-graph.herokuapp.com/graph?username=mohammadruman&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,8 +47,7 @@ src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
-## Watch my contribution graph being eaten by a Snake! 🐍
-![snake gif](https://github.com/mohammadruman/mohammadruman/blob/output/github-contribution-grid-snake.gif)
+<img src="https://activity-graph.herokuapp.com/graph?username=mohammadruman&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
   ## 📊 Github Stats
 <p align="center">
