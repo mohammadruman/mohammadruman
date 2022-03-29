@@ -1,5 +1,5 @@
 <h1 align="center">HEY 👋, I'm Mohammad Ruman</h1>
-<h3 align="center">A Boy trying to Figure-Out Coding Stuuff!!!</h3>
+<h3 align="center">A Boy trying to Figure-Out Coding Stuuff!!</h3>
 
 I am Mohammad Ruman, currently pursuing my BTech majoring in computer science from [Kalinga Institute Of Industrial Technology](https://kiit.ac.in/). I am a tech enthusiast. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
@@ -49,7 +49,7 @@ src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for
 
 <img src="https://activity-graph.herokuapp.com/graph?username=mohammadruman&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-  ## 📊 Github Stats
+  ## 📊 Github Stats.
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammadruman&show_icons=true&theme=tokyonight" />
