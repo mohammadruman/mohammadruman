@@ -13,6 +13,7 @@ I am Mohammad Ruman, currently pursuing my BTech majoring in computer science fr
 
 - ⚡ Fun fact **I might not have thumbs but I still love to code**
 
+
 ![](https://komarev.com/ghpvc/?username=mohammadruman&color=blueviolet&style=plastic&align=center)
 
 <p align="center">
@@ -26,7 +27,8 @@ src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for
   Visitor Count<br>
 <img src="https://profile-counter.glitch.me/mohammadruman/count.svg" />
 </p>
-   
+ 
+	
    ## Watch my contribution graph being eaten by a Snake! 🐍
 ![snake gif](https://github.com/mohammadruman/mohammadruman/blob/output/github-contribution-grid-snake.gif)
 
