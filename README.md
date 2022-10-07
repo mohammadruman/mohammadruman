@@ -38,10 +38,7 @@ src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for
 <a href="https://twitter.com/rumanharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rumanharis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammadruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadruman" height="30" width="40" /></a>
 <a href="https://instagram.com/rumanharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rumanharis" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mohammadruman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohammadruman" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohammadruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammadruman" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohammadruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohammadruman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohammadruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammadruman" height="30" width="40" /></a>
+
 </p>
 
 ## ⚡ Technologies
