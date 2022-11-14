@@ -1,5 +1,5 @@
 <h1 align="center">HEY 👋, I'm Mohammad Ruman</h1>
-<h3 align="center">A Boy trying to Figure-Out Coding Stuuff!!</h3>
+<h3 align="center">A Boy trying to Figure-Out Coding Stuff!!</h3>
 
 I am Mohammad Ruman, currently pursuing my BTech majoring in computer science from [Kalinga Institute Of Industrial Technology](https://kiit.ac.in/). I am a tech enthusiast. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
@@ -52,6 +52,21 @@ src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=mohammadruman&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+
+### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+
+
+<!--
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
+
+<a href='https://twitter.com/natterstefan'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/natterstefan'>
+    Stefan Natter 🇦🇹👋🏻
+</a>
 
   ## 📊 Github Stats.
 <p align="center">
