@@ -54,19 +54,7 @@ src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for
 <img src="https://activity-graph.herokuapp.com/graph?username=mohammadruman&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 
-### <img height="30" style="border-radius:50%" src="https://github.com/mohammadruman/mohammadruman/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
-
-<!--
-## <img height="30" style="border-radius:50%" src="https://github.com/mohammadruman/mohammadruman/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
-
-<a href='https://twitter.com/rumanharis'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/rumanharis'>
-    Stefan Natter 🇦🇹👋🏻
-</a>
 
   ## 📊 Github Stats.
 <p align="center">
