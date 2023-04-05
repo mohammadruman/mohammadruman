@@ -3,7 +3,7 @@
 
 I am Mohammad Ruman, currently pursuing my BTech majoring in computer science from [Kalinga Institute Of Industrial Technology](https://kiit.ac.in/). I am a tech enthusiast. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
-- 🌱 I’m currently learning **Data Structure & Algorithim**
+- 🌱 I’m currently learning **Web Development**
 
 - 📝 I regularly write Tweets on [TWITTER](https://twitter.com/rumanharis)
 
