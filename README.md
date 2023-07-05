@@ -3,11 +3,7 @@
 
 I am Mohammad Ruman, currently pursuing my BTech majoring in computer science from [Kalinga Institute Of Industrial Technology](https://kiit.ac.in/). I am a tech enthusiast. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
-- 🌱 I’m currently learning **Web Development**
-
 - 📝 I regularly write Tweets on [TWITTER](https://twitter.com/rumanharis)
-
-- 💬 Ask me about **Problem solving,Competitive coding,Open Source**
 
 - 📫 How to reach me **mohammaderuman@gmail.com**
 
@@ -37,7 +33,7 @@ src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for
 <p align="left">
 <a href="https://twitter.com/rumanharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rumanharis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammadruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadruman" height="30" width="40" /></a>
-<a href="https://instagram.com/rumanharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rumanharis" height="30" width="40" /></a>
+
 
 </p>
 
