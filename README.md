@@ -9,6 +9,7 @@ I am Mohammad Ruman, currently pursuing my BTech majoring in computer science fr
 
 - ⚡ Fun fact **I might not have thumbs but I still love to code**
 
+<a href="https://wakatime.com/@f7cc9bb5-20ad-4c56-bc7c-de3bde4450bd"><img src="https://wakatime.com/badge/user/f7cc9bb5-20ad-4c56-bc7c-de3bde4450bd.svg" alt="Total time coded since Apr 20 2022" /></a>
 
 ![](https://komarev.com/ghpvc/?username=mohammadruman&color=blueviolet&style=plastic&align=center)
 
