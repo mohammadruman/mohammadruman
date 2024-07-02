@@ -1,22 +1,13 @@
 <h1 align="center">HEY 👋, I'm Mohammad Ruman</h1>
 <h3 align="center">A Boy trying to Figure-Out Coding Stuff!!</h3>
 
-I am Mohammad Ruman, currently pursuing my BTech majoring in computer science from [Kalinga Institute Of Industrial Technology](https://kiit.ac.in/). I am a tech enthusiast. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
-
-- 📝 I regularly write Tweets on [TWITTER](https://twitter.com/rumanharis)
-
-- 📫 How to reach me **mohammaderuman@gmail.com**
-
-- ⚡ Fun fact **I might not have thumbs but I still love to code**
 <div >
+	<p align="center">
 <a href="https://wakatime.com/@f7cc9bb5-20ad-4c56-bc7c-de3bde4450bd"><img src="https://wakatime.com/badge/user/f7cc9bb5-20ad-4c56-bc7c-de3bde4450bd.svg" alt="Total time coded since Apr 20 2022" /></a>
 
-![](https://komarev.com/ghpvc/?username=mohammadruman&color=blueviolet&style=plastic&align=center)
 
-<p align="center">
-<a href="https://www.github.com/mohammadruman" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mohammadruman?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 </p>
+
 </div>
 
 <p align="center"> 
