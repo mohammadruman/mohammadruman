@@ -35,6 +35,3 @@
 </p>
 
 
-   ## Watch my contribution graph being eaten by a Snake! 🐍
-![snake gif](https://github.com/mohammadruman/mohammadruman/blob/output/github-contribution-grid-snake.gif)
-
