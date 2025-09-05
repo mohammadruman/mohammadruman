@@ -2,11 +2,7 @@
 <h3 align="center">A Boy trying to Figure-Out Coding Stuff!!</h3>
 
 <div >
-	<p align="center">
-<a href="https://wakatime.com/@f7cc9bb5-20ad-4c56-bc7c-de3bde4450bd"><img src="https://wakatime.com/badge/user/f7cc9bb5-20ad-4c56-bc7c-de3bde4450bd.svg" alt="Total time coded since Apr 20 2022" /></a>
-
-
-</p>
+	
 
 </div>
 
